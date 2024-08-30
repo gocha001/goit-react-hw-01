@@ -1,0 +1,28 @@
+.container {
+  width: 120px;
+  height: 200px;
+  border: solid 2px;
+  border-radius: 8px;
+}
+
+.image {
+  width: 90px;
+  height: 90px;
+  margin-top: 16px;
+}
+
+.name {
+  font-weight: 500;
+  font-size: 30px;
+  color: #000;
+}
+
+.green {
+  color: green;
+  font-size: 20px;
+}
+
+.red {
+  color: red;
+  font-size: 20px;
+}
